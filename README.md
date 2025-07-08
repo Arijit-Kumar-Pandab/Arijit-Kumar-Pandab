@@ -33,4 +33,5 @@
 
 ---
 
-> 📝 *I love exploring different technologies and continuously learning new things.*
+> 📝 *I love exploring different technologies and continuously learning new things.*  
+> 🎯 *Currently focusing on mastering Kubernetes and Cloud Native tools.*
