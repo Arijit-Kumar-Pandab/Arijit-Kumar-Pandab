@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Arijit Kumar Pandab!
 
-<!--
-**Arijit-Kumar-Pandab/Arijit-Kumar-Pandab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer** | Cloud & Automation Enthusiast  
+💡 Passionate about automating processes, cloud infrastructure, and exploring new DevOps tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My DevOps Toolkit:
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Infrastructure as Code:** Terraform, Ansible  
+- **Monitoring & Observability:** Grafana, Prometheus, Node Exporter, OpenTelemetry, Dynatrace  
+- **Cloud Platforms:** AWS  
+- **Operating Systems:** Linux (Ubuntu, Kali, CentOS)  
+
+---
+
+## 💻 Additional Skills:
+- **Programming:** Java, Bash  
+- **Frameworks:** Spring, Spring Boot  
+- **Mobile Development:** Android (Java & Kotlin)  
+
+---
+
+## 📈 GitHub Stats:
+![Arijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Kumar-Pandab&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/arijit-kumar-pandab-666b301b1/)
+- [GitHub](https://github.com/Arijit-Kumar-Pandab)
+
+---
+
+> 📝 *I love exploring different technologies and continuously learning new things.*
