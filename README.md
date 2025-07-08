@@ -11,7 +11,7 @@
 - **Infrastructure as Code:** Terraform, Ansible  
 - **Monitoring & Observability:** Grafana, Prometheus, Node Exporter, OpenTelemetry, Dynatrace  
 - **Cloud Platforms:** AWS  
-- **Operating Systems:** Linux (Ubuntu, Kali, CentOS)  
+- **Operating Systems:** Linux  
 
 ---
 
