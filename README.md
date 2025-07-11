@@ -25,7 +25,9 @@
 ## 📈 GitHub Stats:
 ![Arijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Kumar-Pandab&show_icons=true&theme=radical)
 
----
+
+## 🗣️ Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Kumar-Pandab&layout=compact&theme=radical)
 
 ## 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/arijit-kumar-pandab-666b301b1/)
